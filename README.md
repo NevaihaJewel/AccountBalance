@@ -22,19 +22,19 @@ Developed a dynamic application designed to simplify personal finance management
 
 <p align="center">
 The Program: Loop and process input until user quits<br/>
-<img src="https://i.imgur.com/95GC2ki.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H0Y4hmO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Program: Provides error response<br/>
-<img src="https://i.imgur.com/zM0oy1f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WCqpF0i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Results: Calculates input properly<br/>
-<img src="https://i.imgur.com/hpVi2Gr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0yY6KV2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Results: Correct error response and ending to program<br/>
-<img src="https://i.imgur.com/i1xgXUM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/692uOpt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 </p>
